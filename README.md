@@ -6,7 +6,7 @@
 Ohjelma ryijyn värien suunnitteluun
 
 
-Valmis ohjelma (exe) Windowsille löytyy kohdasta "Releases".
+Valmis ohjelma (Mac / Windows) löytyy kohdasta "Releases".
 
 1. Valitse Windows versio oman käyttöjärjestelmäsi mukaan (Win32 / Win64). 
 2. Lataa zip tiedosto ja pura se haluamaasi kansioon. 
