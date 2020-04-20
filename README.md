@@ -1,4 +1,8 @@
 # Ryijy
+
+![alt text](https://raw.githubusercontent.com/trainio/ryijy/ryijy-2020-4-20-16-16-0.png)
+
+
 Ohjelma ryijyn värien suunnitteluun
 
 
