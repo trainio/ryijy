@@ -17,5 +17,8 @@ Valmis ohjelma (Mac / Windows) löytyy kohdasta "Releases".
     2. Valitse värisekoitusten määrä.
     3. Muuta värejä raahaamalla langan väri hiirellä valittuun sekoituksen (4 väriä) päälle.
     4. Valitse sekoitus liikkumalla nuolinäppäimille vasemmalle/oikealle.
-    5. Lopuksi tallenna.
+    5. Painamalla "shift" saat kuvasta 2x suurennoksen.
+    6. Painamalla "alt" saa esiin kuvan mustavalkoisena (valitulla sävymäärällä esitettynä)
+    7. Lopuksi tallenna.
 6. Ohjelma tallentaa kuvatiedoston ja tekstitiedoston, jossa on listattu suunnitelmaan käytety langat.
+
